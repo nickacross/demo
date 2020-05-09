@@ -1,0 +1,53 @@
+[
+    {
+        "aptNo": 1,
+        "aptType": "1B1Bath",
+        "noOfRooms": 1,
+        "noOfBaths": 1,
+        "aptLevel": 1,
+        "typeOfFlooring": "Linoleum",
+        "availability": 1,
+        "appEntityList": []
+    },
+    {
+        "aptNo": 2,
+        "aptType": "2B2Bath",
+        "noOfRooms": 2,
+        "noOfBaths": 2,
+        "aptLevel": 1,
+        "typeOfFlooring": "Carpet",
+        "availability": 1,
+        "appEntityList": []
+    },
+    {
+        "aptNo": 10,
+        "aptType": "2B2Bath",
+        "noOfRooms": 2,
+        "noOfBaths": 2,
+        "aptLevel": 1,
+        "typeOfFlooring": "Carpet",
+        "availability": 1,
+        "appEntityList": [
+            {
+                "appId": 10,
+                "status": 0,
+                "userEntity": {
+                    "email": "test3@123.gmail.com",
+                    "password": "test3",
+                    "username": "test3",
+                    "userType": "CUSTOMER"
+                },
+                "apartmentEntity": {
+                    "aptNo": 1,
+                    "aptType": "1B1Bath",
+                    "noOfRooms": 1,
+                    "noOfBaths": 1,
+                    "aptLevel": 1,
+                    "typeOfFlooring": "Linoleum",
+                    "availability": 1,
+                    "appEntityList": []
+                }
+            }
+        ]
+    }
+]
